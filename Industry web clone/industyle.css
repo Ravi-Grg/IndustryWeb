@@ -1,0 +1,80 @@
+body,html{
+    height: 100%;
+}
+.fullDiv{
+    /* background-color: white;
+    margin-left: 2em; */
+}
+.navDiv{
+    position: absolute;
+    height: 24.85em    ;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    background: #333333;
+}
+
+.logo{
+    position: absolute;
+    left: 6.58em;
+    top: 1.2em;
+}
+.text{
+    color: #FFFFFF;
+    margin-left: 6.58em;
+    margin-top: 6em;
+    
+}
+.fmotto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-top: 2em;
+    margin-left: 9.6em;
+    transform: scale(1.6, 2.7);
+    
+}
+.smotto{
+    font-family: 'Palatino Linotype';
+    font-size: 1.25em;
+    margin-top: -0.1em;
+    transform: scale(1, 1.4);
+    font-style: italic;
+    
+    
+}
+.mainimg{
+    position: absolute;
+    margin-left: 6.58em;
+    margin-top: 1.5em;
+}
+.loginform{
+    display: flex;
+    color: green;
+    white-space: nowrap;
+
+}
+.content{
+    text-align: center;
+    font-family: 'LivoryRegular';
+    margin-top: 20em;
+    margin-left: 16em;
+    font-size: 1.7em;
+}
+.upperfooter{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5em;
+    font-family: 'Palatino Linotype';
+    text-align: center;
+    font-size: 1.16em;
+}
+.footerDiv{
+    font-family: 'Arial';
+    display: flex;
+    justify-content: space-around;
+    background: #333333;
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 5em;
+    align-items: center;
+}
